@@ -1,0 +1,32 @@
+export const novidades = [
+    {
+        id: 1,
+        banner: require("../../assets/deadpool.png"),
+        tituloImagem: {uri: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/846a9086-8a40-43e0-aa10-2fc7d6d73730/dhjq3lw-7d89bf54-2e41-4f7b-abb5-4ab18b0f3f21.png/v1/fill/w_1280,h_580/deadpool_and_wolverine__2024__logo_png__by_mintmovi3_dhjq3lw-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTgwIiwicGF0aCI6IlwvZlwvODQ2YTkwODYtOGE0MC00M2UwLWFhMTAtMmZjN2Q2ZDczNzMwXC9kaGpxM2x3LTdkODliZjU0LTJlNDEtNGY3Yi1hYmI1LTRhYjE4YjBmM2YyMS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.QoBF720VvvpunbzSJkCTyeosbS63fOek8WJB1mcADt4"},
+        mensagem: "Já disponível",
+        statusClassificacao: true,
+        classificacaoIcone: require("../../assets/18-icon.png"),
+        ano: 2024,
+        genero: "Super-Heróis",
+    },
+    {
+        id: 2,
+        banner: require("../../assets/agatha.png"),
+        tituloImagem: require("../../assets/agatha-logo.png"),
+        mensagem: "Todos os episódios já disponíveis",
+        statusClassificacao: false,
+        classificacaoIcone: require("../../assets/16-icon.png"),
+        ano: 2024,
+        genero: "Fantasia",
+    },
+    {
+        id: 3,
+        banner: {uri: "https://p2.trrsf.com/image/fget/cf/1200/1200/middle/images.terra.com/2024/11/08/2122078861-alien-romulus-2024-textless-scaled.jpg"},
+        tituloImagem: require("../../assets/alien-romulus-logo.png"),
+        mensagem: "Já disponível",
+        statusClassificacao: true,
+        classificacaoIcone: require("../../assets/16-icon.png"),
+        ano: 2024,
+        genero: "Terror",
+    },
+]

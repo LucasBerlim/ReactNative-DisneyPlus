@@ -9,10 +9,19 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@types/react-native-snap-carousel": "^3.8.11",
     "expo": "~52.0.4",
+    "expo-blur": "~14.0.1",
+    "expo-linear-gradient": "~14.0.1",
     "expo-status-bar": "~2.0.0",
     "react": "18.3.1",
-    "react-native": "0.76.1"
+    "react-native": "0.76.1",
+    "react-native-gesture-handler": "~2.20.2",
+    "react-native-image-slider-box": "github:megamaxs1234/react-native-image-slider-box",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-reanimated": "~3.16.1",
+    "react-native-reanimated-carousel": "^3.5.1",
+    "react-native-snap-carousel": "^3.9.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
