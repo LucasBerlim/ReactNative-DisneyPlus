@@ -2,8 +2,11 @@
 Projeto com fins educacionais
 
 ## Proposta de trabalho - Serratec (Matéria - React Native)
-Proposta: clonar uma tela de sua escolha
+Proposta: Clonar uma tela de sua escolha.
+
 Professor: João Felipe.
+
+Desenvolvedor: Lucas Berlim - [LinkedIn](https://www.linkedin.com/in/lucas-berlim-705136265/)
 
 ## Tela escolhida: Print de referência para a criação
 <img src="https://github.com/LucasBerlim/ReactNative-DisneyPlus/blob/main/assets/print.jpeg" alt="Print da tela do aplicativo" width="300"/>
