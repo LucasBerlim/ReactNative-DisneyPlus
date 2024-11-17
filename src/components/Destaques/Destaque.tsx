@@ -1,7 +1,6 @@
 import React from 'react';
 import { StyleSheet, View, Text, Image, FlatList } from "react-native";
 import { destaques } from '../../mock/destaques';
-import { BlurView } from 'expo-blur';
 
 type DestaqueProps = {
     titulo: String,

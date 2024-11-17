@@ -1,11 +1,11 @@
-import { BlurView, BlurTint } from "expo-blur";
-import { StyleSheet, View, Image } from "react-native";
+import { BlurView } from "expo-blur";
+import { StyleSheet, Image } from "react-native";
 import FontAwesome from '@expo/vector-icons/FontAwesome';
 import Octicons from '@expo/vector-icons/Octicons';
 import Fontisto from '@expo/vector-icons/Fontisto';
 
 const fotoPerfil = "https://static.wikia.nocookie.net/happyfeet/images/3/36/Erik%27s_full-body_view.png/revision/latest/scale-to-width-down/300?cb=20140914172204";
-//tint="systemMaterialDark" 
+
 export function Footer() {
     return (
         <BlurView  experimentalBlurMethod={"none"} tint="systemMaterialDark"  intensity={2} style={styles.container}>  
